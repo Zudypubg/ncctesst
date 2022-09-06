@@ -1,0 +1,141 @@
+#background{
+    width: 1918px;
+    height: 935px;
+    Font-family: 'Roboto';
+    Font-style: Regular;
+    Font-size: 16px;
+    Line-height: 19px;
+    Line-height: 100%;
+}
+.sidebar{
+    width: 150px;
+    background-color: #191718;
+    color: #5C5C5C;
+    height: 935px;
+    float:left;
+}
+.sidebar div{
+    width: 100% -2px;
+    height: 44px;
+    border: 1px  ;
+    border-color: #5C5C5C;
+    border-style: solid;
+    margin: auto;
+    
+}
+.sidebar p{
+    color: #AAAAAA;
+    margin-left: 16px;
+    
+}
+.sidebar div :hover{
+    border-color: pink;
+}
+.sidebar child{
+    
+}
+.backgr-services{
+    
+}
+.backgr-news{
+    
+}
+.backgr-blog{
+      
+}
+.backgr-contact{
+      
+}
+.content{
+    height: 935px;
+    width: 1768px;
+    left: 150px;
+    top: 938px;
+    float: right;
+}
+.logo{
+    background: url(logoNCC.png);
+    height: 122px;
+    width: 310px;
+    left: 879px;
+    top: 958px;
+    border-radius: 0px; 
+    margin:20px 729px;
+}
+.group1{
+    height: 210px;
+    width: 1510px;
+    left: 279px;
+    top: 1110px;  
+    font-size: 16px; 
+    background-color: #EFEFEF;
+    margin-left: 129px;
+    
+}
+.center-text{
+    height: 21px;
+    width: 241px;
+    left: 913px;
+    top: 1148px;
+    padding-top:38px;
+    padding-left: 634px;
+}
+.text{
+    height: 95px;
+    width: 972px;
+    left: 548px;
+    top: 1187px;
+    padding-top: 18px;
+    padding-left:269px;
+}
+.gr234{
+    height: 252px;
+    width: 1510px;
+    display: inline-block;
+    margin-left:129px;
+}
+.group2{
+    height: 252px;
+    width: 470px;
+    left: 279px;
+    top: 1360px;
+    border-radius: 0px;
+    float: left;
+    margin-top:40px;
+}
+#gr2-content{
+    height: 206px;
+    width: 470px;
+    left: 279px;
+    top: 1540px;
+}
+.group3{
+    height: 252px;
+    width: 470px;
+    left: 279px;
+    top: 1360px;
+    border-radius: 0px;
+    float: left;
+    margin:40px 0 0 50px;
+}
+.group4{
+    height: 252px;
+    width: 470px;
+    left: 279px;
+    top: 1360px;
+    border-radius: 0px;
+    float: left;
+    margin:40px 0 0 50px;
+    
+}
+#gr4-content{
+    height: 206px;
+    width: 470px;
+    left: 279px;
+    top: 1540px;
+}
+.footer{
+    width: 1768px;
+    height: 79px;
+    margin-top: 182px;
+}
